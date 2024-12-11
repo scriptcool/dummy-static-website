@@ -1,0 +1,12 @@
+collections_config:
+  doc:
+    path: doc
+    name: Doc
+    icon: dock
+paths:
+  static: ''
+  uploads: uploads
+timezone: America/Chicago
+markdown:
+  engine: commonmark
+  options: {}
